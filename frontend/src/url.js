@@ -1,2 +1,2 @@
-export const URL=import.meta.env.VITE_URL
+export const URL="https://blog-backend-pied-mu.vercel.app"
 export const IF=import.meta.env.VITE_IF   

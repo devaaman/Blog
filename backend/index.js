@@ -23,7 +23,7 @@ const connectDB=async()=>{
     }
 }
 
-
+console.loh("Hello");
 
 //middlewares
 dotenv.config()
